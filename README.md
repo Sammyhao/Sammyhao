@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sammyhao
 - 👀 I’m interested in computing
-- 🎓 I'm currently a freshman at the University of Michigan - Ann Arbor, studying data science
-- 🌱 I’m currently advancing skills in algorithmic theories, AI/ ML, and full-stack web & native app programming
-- 💞️ I’m looking to collaborate on website and application development
+- 🎓 I'm currently a freshman at the University of Michigan - Ann Arbor, studying data science and computer engineering
+- 🌱 I’m currently advancing skills in programming language theories, AI/ ML, and full-stack web programming
 - 📫 How to reach me: samyhao0507@gmail.com
 
 <!---
