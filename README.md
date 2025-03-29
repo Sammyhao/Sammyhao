@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sammyhao
-- 🎓 I'm currently a freshman at the University of Michigan - Ann Arbor, studying computer engineering
+- 🎓 I'm currently a junior at the University of Michigan - Ann Arbor (Class of 2026), studying computer engineering
 - 🌱 I’m currently advancing skills in programming language theories, AI/ ML, and full-stack development
 - 📫 How to reach me: samyhao0507@gmail.com
 
